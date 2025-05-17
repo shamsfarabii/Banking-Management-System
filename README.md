@@ -26,6 +26,3 @@ A console-based bank management system built using C++, providing basic banking 
   - `windows.h`, `conio.h` for UI enhancements and secure password input
 
 ---
-
-## 📁 Project Structure
-
